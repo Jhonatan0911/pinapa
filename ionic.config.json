@@ -1,0 +1,7 @@
+{
+  "name": "pinapa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
